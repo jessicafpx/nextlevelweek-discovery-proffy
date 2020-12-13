@@ -41,7 +41,7 @@ O layout da aplicação está disponível no [Figma](https://www.figma.com/file/
 
 ## 📜 Licença
 
-> Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/jessicafpx/nextlevelweek-discovery-proffy/blob/main/LICENSE.md) para mais detalhes.
+> Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/jessicafpx/nextlevelweek-discovery-proffy/blob/master/LICENSE.md) para mais detalhes.
 
 ---
 
